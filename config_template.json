@@ -1,0 +1,10 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY_HERE",
+    "elevenlabs_api_key": "YOUR_ELEVENLABS_API_KEY_HERE",
+    "movie_path": "/path/to/your/movie.mp4",
+    "script_path": "/path/to/movie/script.txt",
+    "srt_path": "/path/to/movie/subtitles.srt",
+    "background_music_dir": "/path/to/background/music/folder",
+    "output_path": "output_recap.mp4",
+    "temp_dir": "temp_clips"
+}
